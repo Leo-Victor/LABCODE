@@ -17,7 +17,11 @@
 	    <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
 	    <version>3.0.2</version>
 	</dependency>
-	
+	<dependency>
+    <groupId>commons-beanutils</groupId>
+	    <artifactId>commons-beanutils</artifactId>
+	    <version>1.11.0</version>
+	</dependency>
 	<!-- https://mvnrepository.com/artifact/org.glassfish.web/jakarta.servlet.jsp.jstl -->
 	<dependency>
 	    <groupId>org.glassfish.web</groupId>
