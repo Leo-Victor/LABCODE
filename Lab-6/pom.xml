@@ -27,7 +27,11 @@
 	  <artifactId>mssql-jdbc</artifactId>
 	  <version>13.2.0.jre11</version>
 	</dependency>
-
+	<dependency>
+		<groupId>com.microsoft.sqlserver</groupId>
+		<artifactId>mssql-jdbc</artifactId>
+		<version>12.8.0.jre8</version>
+	</dependency>
 	<!-- https://mvnrepository.com/artifact/org.glassfish.web/jakarta.servlet.jsp.jstl -->
 	<dependency>
 	    <groupId>org.glassfish.web</groupId>
