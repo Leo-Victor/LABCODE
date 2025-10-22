@@ -10,7 +10,7 @@ import java.sql.Statement;
 
 public class Jdbc {
 	static String driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
-	static String dburl = "jdbc:sqlserver://localhost:1234;databaseName=HRM;encrypt=true;trustServerCertificate=true";
+	static String dburl = "jdbc:sqlserver://localhost:1433;databaseName=HRM;encrypt=true;trustServerCertificate=true";
 	static String username = "khoa123";
 	static String password = "123456";
 	static {
